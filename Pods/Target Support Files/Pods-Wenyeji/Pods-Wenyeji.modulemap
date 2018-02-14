@@ -1,0 +1,6 @@
+framework module Pods_Wenyeji {
+  umbrella header "Pods-Wenyeji-umbrella.h"
+
+  export *
+  module * { export * }
+}
